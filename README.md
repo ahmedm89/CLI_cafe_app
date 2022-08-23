@@ -11,17 +11,15 @@
 # Overview
 
 ## The Problem:
-```
 
 The client has launched a pop-up cafe in a busy business district. They are offering delivered home-made lunches and refreshments to the surrounding offices. As such, they require a software application which helps them to log and track orders.
-```
+
 
 ## My Solution:
-```
 
 To buid a Python based CLI application for the pop-up cafe, that will allow the user to create/track orders for their customers, and performe CRUD operations for their data and store that data in a MySQL database.
 
-```
+
 
 
 
