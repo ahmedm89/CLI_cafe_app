@@ -210,7 +210,7 @@ Access the directory of the cli_cafe_app through the command prompt:
 ```
 
 ## The Process:
-```
+
 
 . Every week, I received a new markdown with tasks/updates to complete. We were learning new content, and then applying what we had learned to the project - this meant that week by week, the tasks gradually became more advanced.
 
@@ -223,6 +223,6 @@ Access the directory of the cli_cafe_app through the command prompt:
 . The next task was to move our products, couriers and orders to CSV files (so we added prices to our products and phone numbers to our couriers to make them two-dimensional). From the CSV files, I loaded the data as dictionaries, rather than lists. This completely changed how I accessed variables, especially when needing to update data from user input.
 
 . In week 5 and 6 of this project, The task was to maintain all of our data in a database. I used Docker to set up MySQL databases locally, and used the MySQL commands to create tables, insert into them, and update or delete directly from Database.
-```
+
 
 
