@@ -55,7 +55,7 @@ To buid a Python based CLI application for the pop-up cafe, that will allow the 
 
 ![](markdown/view_cour.png)
 
-## View all Orders or a Data visualisation 
+## View all Orders 
 
 ![](markdown/view_orders.png)
 
